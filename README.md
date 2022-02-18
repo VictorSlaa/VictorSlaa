@@ -4,4 +4,4 @@
 
 * Estudando Js - HTML - CSS - GIT - GitHub;
 * Vou estudar REACT JS;
-* Cursando Ciência da Computação |;
+* Cursando Ciência da Computação | ;
